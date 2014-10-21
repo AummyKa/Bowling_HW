@@ -1,0 +1,1 @@
+[ ![Codeship Status for AummyKa/Bowling](https://codeship.io/projects/c8371ea0-3b51-0132-1dcf-566c0f69a34d/status)](https://codeship.io/projects/42593)
